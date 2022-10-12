@@ -77,5 +77,4 @@ config OPLUS_SHIP_MODE_SUPPORT
 	depends on MFD_SPMI_PMIC
 	help
 	  Say Y to include support
-source "drivers/power/oplus/Kconfig"
 #endif
